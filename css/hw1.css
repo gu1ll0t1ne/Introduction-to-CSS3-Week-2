@@ -1,8 +1,8 @@
 *{box-sizing: border-box;}
-/*body{
+body{
 	padding: 1%;
 	margin: 1%;
-}*/
+}
 header{
 	text-align: center;
 	padding: 2%;
@@ -51,18 +51,6 @@ a img:hover{
   width: 80%;
   border-radius: 10px;
   margin: 7.5% 10%;
-}
-.la{
-  margin-bottom: 200%;
-  transition-property: width,border-radius,margin;
-  transition-duration: 0.3s;
-  transition-timing-function: linear;
-  transition-delay: 0.0s;
-}
-.la:hover{
-  width: 80%;
-  border-radius: 10px;
-  margin: 7.5% 10% 200% 10%;
 }
 .left{
 	width: 25%;
