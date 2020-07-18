@@ -61,6 +61,7 @@ a img:hover{
 }
 .right{
 	width: 71%;
+  height: auto;
 	display: inline-block;
 	float: left;
 	margin: 1%;
