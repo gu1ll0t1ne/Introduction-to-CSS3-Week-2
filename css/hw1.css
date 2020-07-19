@@ -53,7 +53,9 @@ a img:hover{
   margin: 7.5% 10%;
 }
 .left{
+	box-sizing: border-box;
 	width: 25%;
+	height: 100vh;
 	display: inline-block;
 	float: left;
 	background-color: #777613;
